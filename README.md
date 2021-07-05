@@ -1,0 +1,2 @@
+# datascrapingforExcelTable
+데이터스크랩핑원하는데이터부분까지자르기
